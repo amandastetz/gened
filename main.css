@@ -91,24 +91,26 @@ div.drop {
 
 .intro, .introsub{
     color: white;
-    position: absolute;
-    height: 1em;
+    /*position: absolute;*/
+    /*height: 1em;*/
     z-index: 2;
-    margin: auto;
     text-align: center;
     opacity: 0;
     animation: appear 2s 3.5s forwards;
 }
 
 .intro {
-    top: -2.6em; left: 0; right: 0; bottom: 0;
-    font-size: 5.5vw;
+    padding: 2.3em 1em 1em;
+    font-size: 7vw;
     font-weight: 700;
 }
 
 .introsub {
-    top: -0.1em; left: 0; right: 0; bottom: 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
     font-size: 3.2vw;
+    line-height: 3vw;
     font-weight: 500;
 }
 
@@ -117,6 +119,7 @@ div.drop {
     text-align: center;
     opacity: 0;
     font-size: 4vw;
+    z-index: 4;
 }
 
 .enter {
