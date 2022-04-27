@@ -28,6 +28,10 @@ body {
     font-size: 1.1vw;
 }
 
+.light {
+   font-weight: 400;
+}
+
 a {
     color: white;
     background-color: transparent;
@@ -100,18 +104,16 @@ div.drop {
 }
 
 .intro {
-    padding: 2.3em 1em 1em;
+    padding: 1.7em 1em 0 1em;
     font-size: 7vw;
     font-weight: 700;
 }
 
 .introsub {
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1em;
+    padding: 1em 1em 1em;
     font-size: 3.2vw;
-    line-height: 3vw;
-    font-weight: 500;
+    line-height: 3.5vw;
+    font-weight: 400;
 }
 
 .arrow {
