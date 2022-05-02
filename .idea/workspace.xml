@@ -68,7 +68,7 @@
       <workItem from="1650937875222" duration="4933000" />
       <workItem from="1651033552756" duration="3078000" />
       <workItem from="1651291476931" duration="13864000" />
-      <workItem from="1651452292271" duration="3684000" />
+      <workItem from="1651452292271" duration="4095000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1650982441484</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651517746592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added citations">
+      <created>1651518124639</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1651518124639</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,10 +138,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added citations" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="137" key="Vcs.Push.Dialog.v2" timestamp="1651517749172">
+    <state x="240" y="137" key="Vcs.Push.Dialog.v2" timestamp="1651518127526">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="137" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1651517749172" />
+    <state x="240" y="137" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1651518127526" />
+    <state x="441" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1651526721407">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="441" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1651526721407" />
     <state x="341" y="25" width="597" height="735" key="find.popup" timestamp="1651035277428">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
